@@ -1,0 +1,16 @@
+/* Layout */
+#gnb{
+    background-color: #f6f5ef;
+}
+
+/* header#gnb */
+.gnb-wrap{
+    width: 54.5rem;
+    margin: 0 auto;
+}
+.gnb-wrap .logo-title{
+    float: left;
+}
+.gnb-wrap nav{
+    float: right;
+}

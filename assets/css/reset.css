@@ -1,0 +1,28 @@
+*  {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ul,ol,li{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+html{
+    font-size: 20px;
+}
+body{
+    font-size: 1rem;
+}
+.hide{
+    width: 0; height: 0;
+    font-size: 0;
+    line-height: 0;
+    position: absolute;
+    left: 0; top: 0;
+    overflow: hidden;
+}
